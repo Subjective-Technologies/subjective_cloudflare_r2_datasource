@@ -1,4 +1,5 @@
 {
+  "description": "Connector scaffold for Cloudflare R2 intended to ingest object storage content into BrainBoost. Current fetch behavior is a placeholder.",
   "domainCategory": "Cloud & DevOps",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Cloudflare R2",
-      "text": "A Subjective data source for Cloudflare R2. This data source is currently a skeleton (fetch returns no items).",
+      "text": "Connector scaffold for Cloudflare R2 intended to ingest object storage content into BrainBoost. Current fetch behavior is a placeholder.",
       "image": {
         "src": "/subjective_cloudflare_r2_datasource/icon.svg",
         "alt": "Cloudflare R2 icon"
